@@ -6,7 +6,8 @@
 - The simulaion is incredibly flexible and gives the operator extremely granular control over all characteristics of the simulation. This is thanks to the Vars.cs file which contains nearly 50 public global constants that both the simulation and the AI have access to. This means that the even the thickness and length of the dashed lines on the road can be modified. By drawing the simuation dynamically based on these constants, a myriad of different scenarious can be simulated.
 - What separates this AI from any other existing solutions out there, is that is fully decentralized and autonomous. There is no central server controllin all the vehicles. Rather, each vehicle makes its own decisions using basic ulitarian values such that the efficiency and safety of the intersection as a whole is the number one priority. By making the AI decentralized, there is no risk of having every car on the road crash when there is a failure with the central server. 
 - This was accomplished by leveraging what is known as "swarm intelligence" - all the cars intercommunicate such that they knew exactly what all the other car's current states are and can accurately predict where collisions would occur and then decide how to avoid them.   
+
 <br></br>
-<br></br>
+
 ## Basic Flowchart of AI:
 ![Basic flowchart of the AI used in this project](https://github.com/AlecWarren19/autonomous-intersection/blob/main/flowchart.png)
