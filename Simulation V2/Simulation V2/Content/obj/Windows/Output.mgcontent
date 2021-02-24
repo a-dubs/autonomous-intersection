@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/alecw/Google Drive/2k19 Work/Science Fair 2k19/Simulation V2/Simulation V2/Content/Output.spritefont</SourceFile>
+  <SourceTime>2017-10-11T16:02:45-04:00</SourceTime>
+  <DestFile>C:/Users/alecw/Google Drive/2k19 Work/Science Fair 2k19/Simulation V2/Simulation V2/Content/bin/Windows/Output.xnb</DestFile>
+  <DestTime>2018-11-06T10:23:11.2208151-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

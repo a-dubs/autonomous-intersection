@@ -1,0 +1,64 @@
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csproj.CoreCompileInputs.cache
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Simulation V2.exe
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Simulation V2.pdb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.exe
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.pdb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Output.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\car_sprite.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\Explosion.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csprojAssemblyReference.cache
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csproj.CopyComplete
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\desktop.ini
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\desktop.ini
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\car_sprite.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\Explosion.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Output.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Simulation V2.exe
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Simulation V2.pdb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csproj.CoreCompileInputs.cache
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.exe
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.pdb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\white_car.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Content\desktop.ini
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Content\images\desktop.ini
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Content\Output.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Content\images\car_sprite.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Content\images\Explosion.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Content\images\white_car.xnb
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csprojResolveAssemblyReference.cache

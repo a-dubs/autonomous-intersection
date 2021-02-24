@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation V2", "Simulation V2\Simulation V2.csproj", "{D215839E-C3D9-4820-8EB4-CC303BD8266A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D215839E-C3D9-4820-8EB4-CC303BD8266A}.Debug|x86.ActiveCfg = Debug|x86
+		{D215839E-C3D9-4820-8EB4-CC303BD8266A}.Debug|x86.Build.0 = Debug|x86
+		{D215839E-C3D9-4820-8EB4-CC303BD8266A}.Release|x86.ActiveCfg = Release|x86
+		{D215839E-C3D9-4820-8EB4-CC303BD8266A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670DA3B1-60F1-4480-B2B3-50BDF4E13422}
+	EndGlobalSection
+EndGlobal
