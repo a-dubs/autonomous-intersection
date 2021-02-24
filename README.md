@@ -8,5 +8,5 @@
 - This was accomplished by leveraging what is known as "swarm intelligence" - all the cars intercommunicate such that they knew exactly what all the other car's current states are and can accurately predict where collisions would occur and then decide how to avoid them.   
   
   
-### Basic Flowchart of AI:
+## Basic Flowchart of AI:
 ![Basic flowchart of the AI used in this project](https://github.com/AlecWarren19/autonomous-intersection/blob/main/flowchart.png)
