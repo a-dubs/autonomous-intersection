@@ -1,5 +1,5 @@
 # autonomous-intersection  
-## Developing and Simulating Self-Driving Car A.I. Without Need for Traffic Lights  
+### Developing and Simulating Self-Driving Car A.I. Without Need for Traffic Lights  
 - The purpose of this project was to create a computer simulation of a four-way intersection with no traffic controls (stop signs or traffic lights) and then develop an autonomous artificial intellegence such that the self-driving cars regulate their speed and pass through the intersection without any collisions.
 - This simulation was created in Visual Studio 2017 using C#, and leveraged the MonoGame framework, an improvement to Microsoft’s discontinued XNA 4.0 framework.
 - The physics and mathematical details of the simulation were created from scratch specifically for this simulation, with acceleration and deceleration physics derived from data on real world tests of the Tesla Model S.
