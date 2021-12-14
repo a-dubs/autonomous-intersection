@@ -12,6 +12,10 @@
 ## Basic Flowchart of AI:
 ![Basic flowchart of the AI used in this project](https://github.com/AlecWarren19/autonomous-intersection/blob/main/flowchart.png)
 
+<br></br>
+
+<br></br>
+
 ## Project's Display Board From ISEF 2019
 ![Project Board Displayed at ISEF 2019](https://github.com/a-dubs/autonomous-intersection/blob/main/Display%20Board%20for%20ISEF%202019.png)
 
