@@ -16,9 +16,9 @@ namespace Simulation_V2
         // Simulation Key Variables
         public static int WindowWidth = 1920;
         public static int WindowHeight = 1050; 
-        public static float PPM = 8;  // Pixels Per Meter; Gives scale to the simulation;
-        public static int NumberOfLanes = 1;
-        public static double CarFrequency = 65;  // cars spawning in per minute 
+        public static float PPM = 4;  // Pixels Per Meter; Gives scale to the simulation;
+        public static int NumberOfLanes = 15;
+        public static double CarFrequency = 100;  // cars spawning in per minute 
         public static int MaxNumberOfVehicles = 100;  // max possible number of car on screen
         public static double DeltaTime = .0166667;  // 1/60th of a second b/c simulation runs at 60 fps  
         public static int SpeedLimit = 70;  // speed limit in km/h - not strict/rigid but more of the maximum velocity where the cars should still be accelerating

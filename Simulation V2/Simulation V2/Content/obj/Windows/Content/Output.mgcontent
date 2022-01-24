@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/alecw/Google Drive/2k19 Work/Science Fair 2k19/Simulation V2/Simulation V2/Content/Output.spritefont</SourceFile>
-  <SourceTime>2017-10-11T16:02:45-04:00</SourceTime>
-  <DestFile>C:/Users/alecw/Google Drive/2k19 Work/Science Fair 2k19/Simulation V2/Simulation V2/Content/bin/Windows/Content/Output.xnb</DestFile>
-  <DestTime>2019-05-10T18:41:06.1642066-04:00</DestTime>
+  <SourceFile>S:/aw_gd/Coding and Projects/_archive/autonomous-intersection/Simulation V2/Simulation V2/Content/Output.spritefont</SourceFile>
+  <SourceTime>2021-02-22T19:45:14-05:00</SourceTime>
+  <DestFile>S:/aw_gd/Coding and Projects/_archive/autonomous-intersection/Simulation V2/Simulation V2/Content/bin/Windows/Content/Output.xnb</DestFile>
+  <DestTime>2021-12-28T23:46:45.1872445-05:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

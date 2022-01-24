@@ -62,3 +62,31 @@ C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation
 C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
 C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
 C:\Users\alecw\Google Drive\2k19 Work\Science Fair 2k19\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csprojResolveAssemblyReference.cache
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\car_sprite.xnb
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\Explosion.xnb
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\images\white_car.xnb
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Content\Output.xnb
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Simulation V2.exe.config
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Simulation V2.exe
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\Simulation V2.pdb
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.dll
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.xml
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csproj.AssemblyReference.cache
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csproj.SuggestedBindingRedirects.cache
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.csproj.CoreCompileInputs.cache
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.exe
+S:\aw_gd\Coding and Projects\_archive\autonomous-intersection\Simulation V2\Simulation V2\obj\x86\Debug\Simulation V2.pdb
