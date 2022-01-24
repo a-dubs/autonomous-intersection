@@ -1,5 +1,7 @@
 # autonomous-intersection  
-### Developing and Simulating Self-Driving Car A.I. Without Need for Traffic Lights  
+Developing and Simulating Self-Driving Car A.I. Without Need for Traffic Lights 
+
+## Summary
 - The purpose of this project was to create a computer simulation of a four-way intersection with no traffic controls (stop signs or traffic lights) and then develop an autonomous artificial intellegence such that the self-driving cars regulate their speed and pass through the intersection without any collisions.
 - This 2D simulation was created entirely from scratch in Visual Studio 2017 using C#, and leveraged the MonoGame framework, an improvement to Microsoft’s discontinued XNA 4.0 framework.
 - The physics and mathematical details of the simulation were created from scratch specifically for this simulation, with acceleration and deceleration physics derived from data on real world tests of the Tesla Model S.
@@ -15,7 +17,7 @@
 
 
 ### The Autonomous Intersection in Action!  
-![demo of intersection gif](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/demo.gif)
+![demo of intersection with 4 lanes gif](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/4_lane_demo.gif)
 
 <br>
 
@@ -24,7 +26,7 @@
 
 <br>
 
-### High-Level Flowchart of The Cars' AI 
+### High-Level Flowchart of the Cars' AI 
 ![high-level ai flowchart](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/flowchart.jpg)
 
 <br>
@@ -49,6 +51,11 @@
 
 <br>
 
+### Demo of Simulation with 1 Lane 
+![demo of intersection with 1 lanes gif](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/1_lane_demo.gif)
+
+<br>
+
 <br>
 
 ## Project's Display Board From ISEF 2019
@@ -65,3 +72,10 @@
 <br>
 
 <br>
+
+
+## Project Metadata
+
+**Project Status** : Archived  
+**Project Progress** : Completed  
+**Project Dates** : Oct '17 - May '19  
