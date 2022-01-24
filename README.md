@@ -9,13 +9,59 @@
 
 <br></br>
 
-## Basic Flowchart of AI:
-![Basic flowchart of the AI used in this project](https://github.com/AlecWarren19/autonomous-intersection/blob/main/flowchart.png)
+## Image Gallery
 
-<br></br>
+<br>
+
+
+### The Autonomous Intersection in Action!  
+![demo of intersection gif](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/demo.gif)
+
+<br>
+
+### Threading the Needle 
+![simulation with 1 lane](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/4_lane_1.jpg)
+
+<br>
+
+### High-Level Flowchart of The Cars' AI 
+![high-level ai flowchart](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/flowchart.jpg)
+
+<br>
+
+### Simulation with 1 Lane  
+![simulation with 1 lane](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/1_lane_1.jpg)
+
+<br>
+
+### Simulation with 2 Lanes  
+![simulation with 2 lanes](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/2_lane_1.jpg)
+
+<br>
+
+### Simulation with 3 Lanes  
+![simulation with 3 lanes](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/3_lane_1.jpg)
+
+<br>
+
+### Simulation with 4 Lanes
+![simulation with 4 lanes](https://github.com/a-dubs/autonomous-intersection/blob/main/image_gallery/4_lane_2.jpg)
+
+<br>
+
+<br>
 
 ## Project's Display Board From ISEF 2019
 ![Project Board Displayed at ISEF 2019](https://github.com/a-dubs/autonomous-intersection/blob/main/Display%20Board%20for%20ISEF%202019.png)
 
+<br>
+
 ## Demo Video
 [Demo Video on Youtube of Various Runs with 1-4 Lanes](https://youtu.be/VOxNxQTsYMI)
+
+
+<br>
+
+<br>
+
+<br>
