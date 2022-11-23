@@ -1,4 +1,4 @@
-# autonomous-intersection  
+# Autonomous Intersection Simulation & A.I. 
 Developing and Simulating Self-Driving Car A.I. Without Need for Traffic Lights 
 
 ## Summary
