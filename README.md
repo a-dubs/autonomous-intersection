@@ -76,6 +76,6 @@ Developing and Simulating Self-Driving Car A.I. Without Need for Traffic Lights
 
 ## Project Metadata
 
-**Project Status** : Archived  
+**Project Status** : Active  
 **Project Progress** : Completed  
-**Project Dates** : Oct '17 - May '19  
+**Project Dates** : Oct '17 - Present  
