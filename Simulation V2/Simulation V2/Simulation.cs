@@ -156,23 +156,12 @@ namespace Simulation_V2
                 Vars.SelectedVehicleID = 0;
                 Vars.NumberOfActiveVehicles--;
             }
-            /*if(oldState.IsKeyUp(Keys.O) && newState.IsKeyDown(Keys.O))
-            {
-                Vars.PPM += 1;
-                Methods.Print("out");
-                Vars.UpdateForPPM();
-            }
-            else if (oldState.IsKeyUp(Keys.I) && newState.IsKeyDown(Keys.I))
-            {
-                Vars.PPM -= 1;
-                Vars.UpdateForPPM();
-            }*/
             // slow time down
             if (oldState.IsKeyUp(Keys.Down) && newState.IsKeyDown(Keys.Down)) // compare current to old state of keyboard
             {
                 if (Paused)
                 {
-                    OldDeltaTime -= (double).0167 / 4;
+                    OldDeltaTime = min(OldDeltaTime - (double).0167 / 4;
                 }
                 else
                 {
@@ -416,18 +405,7 @@ namespace Simulation_V2
                         Vars.LaneNumber = (Vars.LaneNumber % Vars.NumberOfLanes) + 1;
                     }
                 }
-                //// Instantiate pedestrians //// 
-                /*double PSI = 60.00 / Vars.PedestrianFrequency; // time between car spawns (Car Spawn Interval)                            
-                // Create new Vehicle class randomly
-                rand = new System.Random();
-                if (Vars.DeltaTime > 0 && PSI_ET >= PSI)
-                {
-                    Methods.Print("pedestrian spawned in");
-                    PSI_ET = 0;
-                    pedestrian = new Pedestrian(rand.Next(1, 5));
-                }*/
-
-
+                
                 Objects.Clear();
                 //Objects.Add(new Vector2[] { new Vector2((float)(Vars.OriginSE.X - (Vars.LaneWidth * .5 + Vars.IntersectionCurve) * Vars.PPM), (float)Vars.OriginSE.Y) });
                 if (pedestrian.Exists)
