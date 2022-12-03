@@ -80,5 +80,5 @@ Developing and Simulating Self-Driving Car A.I. Without Need for Traffic Lights
 **Project Progress** : Completed  
 **Project Dates** : Oct '17 - Present  
 
-// portfolio.alecwarren.com position priority = 10 (-1 is lowest, 0 is default, 10 is highest)
+<!-- portfolio.alecwarren.com position priority = 10 (-1 is lowest, 0 is default, 10 is highest) -->
 
